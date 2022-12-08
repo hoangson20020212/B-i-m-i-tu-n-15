@@ -1,0 +1,163 @@
+[
+    {
+        "id":1,
+        "studentCode": "20020012", 
+        "name": "Nguyễn Văn Anh",
+        "dateOfBirth": "15/07/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "id":2,
+        "studentCode": "17028547", 
+        "name": "Bùi Văn Tâm",
+        "dateOfBirth": "01/08/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "id":3,
+        "studentCode": "20027812", 
+        "name": "Tạ Đăng Đức",
+        "dateOfBirth": "28/02/2002",
+        "home": "Hải Phòng"
+    },
+    {
+        "id":4,
+        "studentCode": "20020412", 
+        "name": "Bùi Đăng Hưng",
+        "dateOfBirth": "22/07/2002",
+        "home": "Đà Nẵng"
+    },
+    {
+        "id":5,
+        "studentCode": "21020012", 
+        "name": "Nguyễn Anh Tuấn",
+        "dateOfBirth": "21/11/2003",
+        "home": "Nam Định"
+    },
+    {
+        "id":6,
+        "studentCode": "20720012", 
+        "name": "Trần Duy Đan",
+        "dateOfBirth": "28/12/2002",
+        "home": "Ninh Thuận"
+    },
+    {
+        "id":7,
+        "studentCode": "21020012", 
+        "name": "Trần Mạnh Dương",
+        "dateOfBirth": "11/03/2003",
+        "home": "Hà Nam"
+    },
+    {
+        "id":8,
+        "studentCode": "21071012", 
+        "name": "Nguyễn Đức An",
+        "dateOfBirth": "09/02/2003",
+        "home": "Nghệ An"
+    },
+    {
+        "id":9,
+        "studentCode": "19020012", 
+        "name": "Văn Hoàng Phúc",
+        "dateOfBirth": "16/04/2001",
+        "home": "Ninh Bình"
+    },
+    {
+        "id":10,
+        "studentCode": "20571012", 
+        "name": "Nguyễn Linh Chi",
+        "dateOfBirth": "17/11/2002",
+        "home": "Cà Mau"
+    },
+    {
+        "id":11,
+        "studentCode": "2075412", 
+        "name": "Nguyễn Thị Hà Trang",
+        "dateOfBirth": "09/07/2002",
+        "home": "Hưng Yên"
+    },
+    {
+        "id":12,
+        "studentCode": "19028612", 
+        "name": "Nguyễn Phong Du",
+        "dateOfBirth": "30/05/2001",
+        "home": "Hà Nội"
+    },
+    {
+        "id":13,
+        "studentCode": "20020192", 
+        "name": "Nguyễn Văn Dũng",
+        "dateOfBirth": "04/01/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "id":14,
+        "studentCode": "20725012", 
+        "name": "Du Thùy Phương",
+        "dateOfBirth": "19/06/2002",
+        "home": "Thanh Hóa"
+    },
+    {
+        "id":15,
+        "studentCode": "20087152", 
+        "name": "Dương Vĩnh Long",
+        "dateOfBirth": "11/08/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "id":16,
+        "studentCode": "19011471", 
+        "name": "Dương Thúy Quỳnh",
+        "dateOfBirth": "14/04/2001",
+        "home": "Thanh Hóa"
+    },
+    {
+        "id":17,
+        "studentCode": "20020394", 
+        "name": "Nguyễn Minh Đức",
+        "dateOfBirth": "01/08/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "id":18,
+        "studentCode": "20221564", 
+        "name": "Nguyễn Thành Thắng",
+        "dateOfBirth": "30/04/2002",
+        "home": "Hà Tĩnh"
+    },
+    {
+        "id":19,
+        "studentCode": "20021564", 
+        "name": "Thu Phương",
+        "dateOfBirth": "05/04/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "id":20,
+        "studentCode": "18021564", 
+        "name": "Vũ Hoài Phương",
+        "dateOfBirth": "11/11/2000",
+        "home": "Nghệ An"
+    },
+    {
+        "id":21,
+        "studentCode": "17021564", 
+        "name": "Nguyễn Ngọc Linh",
+        "dateOfBirth": "01/12/1999",
+        "home": "Hà Nội"
+    },
+    {
+        "id":22,
+        "studentCode": "20020212", 
+        "name": "Nguyễn Hữu Hoàng Sơn",
+        "dateOfBirth": "11/02/2002",
+        "home": "Hà Nội"
+    }
+    ,{
+        "id":23,
+        "studentCode": "17021564", 
+        "name": "Nguyễn Ngọc Huyền",
+        "dateOfBirth": "11/12/1999",
+        "home": "Hà Nội"
+    }
+]
